@@ -1,4 +1,4 @@
-# Hsopital-Management-System
+# Hospital-Management-System
 12th Grade case study project on Hospital Management System concept.
 
 The project Hospital Management System (HMS) is for computerizing the working in a
